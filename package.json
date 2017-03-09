@@ -1,0 +1,25 @@
+{
+  "name": "rails-harness",
+  "version": "1.0.0",
+  "author": "taystack",
+  "description": "Wrapper application to version sub-applications with separate stacks.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "brand-guide": "git+ssh://git@github.com/taystack/angular-harness-adapter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taystack/rails-harness.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taystack/rails-harness/issues"
+  },
+  "homepage": "https://github.com/taystack/rails-harness#readme"
+}
